@@ -2,7 +2,7 @@
 
 <h1 align="center">Summer Session 2, 2024</h1>
 
-<p align="center"><img src="https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-6/assets/164306890/d3f91601-d6c6-426f-b8aa-4733af1c4f2f](https://github.com/ncucsd/The-Puppy/blob/3387eed61e11feb096777f3d9380c218c35fbe62/images%20and%20video/Extra%20delivarables/Us.jpg)" width="700" height="400"></p>
+<p align="center"><img src="(https://github.com/ncucsd/The-Puppy/blob/3387eed61e11feb096777f3d9380c218c35fbe62/images%20and%20video/Extra%20delivarables/Us.jpg)" width="700" height="400"></p>
 
 [![Video of final project]()
 
