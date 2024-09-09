@@ -22,7 +22,7 @@ On August 27th 2024 we proposed the idea of training our robot to follow a speci
   
 We decided to use Roboflow because it is a very versatile website that allows you to train custom models, source annotated datasets for training, and/or find datasets with models that are already trained. Roboflow is a really great resource for finding and implementing computer vision models on a number of devices which includes the OAK-D camera we have on our car. We learned to make sure to source a model with the model type YOLO v8 when using an OAK-D camera. This ensured that the camera could communicate with the model via the ROS2 package we later installed onto our NVIDIA Jetson Nano. 
 
-As we explored Roboflow, we began to transition the model we proposed since we realized that there are datasets with a large variety of annotated images. Since some of these models had thousands of images with specified classes, we decided that our car may respond better if we used a model that was trained using more data. This transition led us to use a model that trained hand signs instead:
+As we explored Roboflow, we began to transition the model we proposed since we realized that there are datasets with a large variety of annotated images. Since some of these models had thousands of images with specified classes, we decided that our car may respond better if we used a model that was trained using more data. This transition led us to use models that trained hand signs instead:
 
 <p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/6c93144ac21b37f17492fffeda7a3398a52009c6/images%20and%20video/Signs/Transition%20to%20Hand%20Signs.png" width="700" height="600"></p>
 <p align="center">Transition to Hand Signs
