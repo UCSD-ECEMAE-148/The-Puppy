@@ -2,7 +2,7 @@
 
 <h1 align="center">Summer Session 2, 2024</h1>
 
-<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/3387eed61e11feb096777f3d9380c218c35fbe62/images%20and%20video/Extra%20delivarables/Us.jpg" ></p>
+<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/ebd7ea72f1f4430775ea76c10dfce3efad88d65e/images%20and%20video/Extra%20delivarables/Us.jpg" ></p>
 
 ### Team members (from left to right):
 
