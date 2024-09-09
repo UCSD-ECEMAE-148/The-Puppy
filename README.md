@@ -4,9 +4,6 @@
 
 <p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/3387eed61e11feb096777f3d9380c218c35fbe62/images%20and%20video/Extra%20delivarables/Us.jpg" width="700" height="600"></p>
 
-[![Video of final project]()
-
-
 ### Team members (from left to right):
 
 - Yutao Deng (Mechanical Engineering) 
@@ -32,6 +29,8 @@ As we explored Roboflow, we began to transition the model we proposed since we r
 
 Model training worked great so we installed a sourced ROS2 package, provided by a github link from our TA, which contained the code we modified for our own applications. We had installed and modified this package a couple of days prior, and were already prepared to present these results during the update presentation on 09/03/2024. In fact, we were already “troubleshooting” the code. It is important to note however, that our code was not producing any errors by 09/02/2024. This leads us to believe that this may have been the point where we should have been able to move forward with programming our vehicle with commands. Unfortunately, we believe that due to trouble with our VESC, an issue we had previously tried to resolve, we were not able to get the car to respond. We spent the next days continuing on our journey of trying to get the car to respond but eventually collaboration with Team 5 led us to install a new package which you see located in the “src” directory. After installing this package, we ran into the same issue with our VESC which hindered us from testing any actual commands with our car. We are confident however, that we had all other components necessary for our car to respond to classes it recognized. Below you can see model training and class recognition in action. Here we tested two different trained models with distinct hand sign classes:
 
+<p align="center"><img src="https://github.com/ncucsd/The-Puppy/tree/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/Video%20Demonstrations" width="700" height="600"></p>
+
 This the Github link for anyone interested: https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-6 
 
 ### Goals
@@ -45,6 +44,15 @@ This the Github link for anyone interested: https://github.com/UCSD-ECEMAE-148/w
 - learned how to source a public data set with a trained model on Roboflow
 - learned how to install a package using ros2 that uses a model from Roboflow
 - The robot is able to recognize specific hand signs as classes from models trained on Roboflow
+
+### CAD Design
+<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Board%20Complete.png" width="700" height="600"></p>
+<p align="center">Board
+
+<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Spark%20Switch%20Housing%202.png" width="700" height="600"></p>
+<p align="center">Antispark Switch Housing
+
+Some parts needed for the initial construction of the robot were designed by a teammate who unfortunately departed from our team. Also some hardware already had cases.
 
 ### Acknowledgements:
 
