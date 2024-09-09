@@ -6,6 +6,16 @@
 
 [![Video of final project]()
 
+
+### Team members (from left to right):
+
+- Yutao Deng (Mechanical Engineering) 
+
+- Adam Ornelas (Mechanical Engineering)
+
+- Niran Cuevas (Aerospace Engineering)
+
+
 ### Abstract 
 Our team built an autonomous car that could identify, track, and follow a flying drone using machine learning, openCV, and ROS2. 
 
