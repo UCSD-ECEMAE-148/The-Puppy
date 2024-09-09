@@ -47,7 +47,7 @@ This is the Github link for anyone interested: https://github.com/UCSD-ECEMAE-14
 - The robot is able to recognize specific hand signs as classes from models trained on Roboflow
 
 ### CAD Design
-<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Board%20Complete.png" width="700" height="600"></p>
+<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Board%20Complete.png" ></p>
 <p align="center">Board
 
 <p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Spark%20Switch%20Housing%202.png" width="700" height="600"></p>
