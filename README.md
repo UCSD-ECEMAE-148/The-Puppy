@@ -67,4 +67,4 @@ Some parts needed for the initial construction of the robot were designed by a t
 
 ### Acknowledgements:
 
-We want to give a big thank you to our TAs Alexander Haken and Eric Foss as well as Professor Jack Silberman for guiding ua through this journey. Your help and patience will not be forgotten.
+We want to give a big thank you to our TAs Alexander Haken and Eric Foss as well as Professor Jack Silberman for guiding us through this journey. Your help and patience will not be forgotten.
