@@ -31,7 +31,7 @@ Model training worked great so we installed a sourced ROS2 package, provided by 
 
 
 <p align="center"><img src="https://github.com/ncucsd/The-Puppy/tree/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/Video%20Demonstrations" ></p>
-<p align="center">Please click the link above to access the videos of our trained model demonstrations (or check out: "images and video/Video Demonstrations" in the directories above).
+<p align="center">Please click the link above to access the videos of our trained model demonstrations (Or check out: "images and video/Video Demonstrations" in the directories above).
 
 
 This is the Github link for anyone interested: https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-6 
