@@ -2,7 +2,7 @@
 
 <h1 align="center">Summer Session 2, 2024</h1>
 
-<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/3387eed61e11feb096777f3d9380c218c35fbe62/images%20and%20video/Extra%20delivarables/Us.jpg" width="700" height="600"></p>
+<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/3387eed61e11feb096777f3d9380c218c35fbe62/images%20and%20video/Extra%20delivarables/Us.jpg" ></p>
 
 ### Team members (from left to right):
 
@@ -50,7 +50,7 @@ This is the Github link for anyone interested: https://github.com/UCSD-ECEMAE-14
 <p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Board%20Complete.png" ></p>
 <p align="center">Board
 
-<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Spark%20Switch%20Housing%202.png" width="700" height="600"></p>
+<p align="center"><img src="https://github.com/ncucsd/The-Puppy/blob/1721c2832739c1117f58061601e65e52e94b524c/images%20and%20video/CAD/Spark%20Switch%20Housing%202.png" ></p>
 <p align="center">Antispark Switch Housing
 
 Some parts needed for the initial construction of the robot were designed by a teammate who unfortunately departed from our team. Also some hardware already had cases.
